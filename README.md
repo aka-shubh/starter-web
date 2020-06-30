@@ -8,6 +8,8 @@ This is example is to show different parts of the Git repository and various com
 
 ## Purpose
 
+As stated above, the main purpose is to give a demo of Github repository.
+
 ## Deployment
 
 ## How To Contribute
