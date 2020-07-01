@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shubham Verma -- Project Engineer -- akashubh97
 
 # THANKS
 
